@@ -24,3 +24,5 @@
  
  
  ### Jika ada error saat menginstall pyinstaller, coba matikan anti virus / windows defender pada saat menginstall.
+ 
+ Jalankan file `frmBarang.py` atau `frmBarang.exe` untuk menjalankan program
